@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cantril.github.io/sitemap.html.gz
+Sitemap: https://cantril.github.io/app/sitemap.html.gz
+Sitemap: https://cantril.github.io/assets/sitemap.html.gz
+Sitemap: https://cantril.github.io/css/sitemap.html.gz
+Sitemap: https://cantril.github.io/includes/sitemap.html.gz
+Sitemap: https://cantril.github.io/item/sitemap.html.gz
+Sitemap: https://cantril.github.io/src/sitemap.html.gz
